@@ -1,0 +1,4 @@
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Programeren 1\LEKAGE\LEKAGE\obj\Debug\netcoreapp2.1\LEKAGE.csprojAssemblyReference.cache
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Programeren 1\LEKAGE\LEKAGE\obj\Debug\netcoreapp2.1\LEKAGE.csproj.CoreCompileInputs.cache
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Programeren 1\LEKAGE\LEKAGE\obj\Debug\netcoreapp2.1\LEKAGE.AssemblyInfoInputs.cache
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Programeren 1\LEKAGE\LEKAGE\obj\Debug\netcoreapp2.1\LEKAGE.AssemblyInfo.cs

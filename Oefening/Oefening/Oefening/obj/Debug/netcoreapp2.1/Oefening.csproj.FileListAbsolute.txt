@@ -1,0 +1,11 @@
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\bin\Debug\netcoreapp2.1\Oefening.deps.json
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\bin\Debug\netcoreapp2.1\Oefening.runtimeconfig.json
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\bin\Debug\netcoreapp2.1\Oefening.runtimeconfig.dev.json
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\bin\Debug\netcoreapp2.1\Oefening.dll
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\bin\Debug\netcoreapp2.1\Oefening.pdb
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\obj\Debug\netcoreapp2.1\Oefening.csprojAssemblyReference.cache
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\obj\Debug\netcoreapp2.1\Oefening.csproj.CoreCompileInputs.cache
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\obj\Debug\netcoreapp2.1\Oefening.AssemblyInfoInputs.cache
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\obj\Debug\netcoreapp2.1\Oefening.AssemblyInfo.cs
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\obj\Debug\netcoreapp2.1\Oefening.dll
+C:\Users\Koen van Cromvoirt\Documents\GitHub\Projects\Oefening\Oefening\Oefening\obj\Debug\netcoreapp2.1\Oefening.pdb
