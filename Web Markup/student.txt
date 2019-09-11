@@ -1,0 +1,3 @@
+student name: Koen van Cromvoirt
+student number: 647634
+student class: HAINF1SB
